@@ -1,0 +1,9 @@
+GET /account/.htaccess.aspx-->">'>'"<sfi000053v023413> HTTP/1.1
+Host: localhost:5000
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.10b
+Range: bytes=0-399999
+Referer: http://localhost/
+Accept: skip/fish;
+

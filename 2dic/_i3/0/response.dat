@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 7807
+Server: Werkzeug/0.14.1 Python/3.6.5
+Date: Sun, 09 Dec 2018 16:20:04 GMT
+
+<html>
+
+    <head>
+
+    </head>
+
+
+
+    <body>
+        <h1 align="center">Create a new Account</h1>
+
+        <table width="100%" align="center" cellspacing="0" cellpadding="0" bgcolor="#ffffff" border="0">
+            <tr>
+                <td>
+        
+                    <table width="70%" align="center" cellspacing="0" cellpadding="4" border="0">
+                        <tbody><tr>
+                            <td class="err" align="center" colspan="2">
+                                <img src="./SYSTEM POCZTY STUDENCKIEJ _ Wroclawskie Centrum Sieciowo-Superkomputerowe_files/spacer.gif" width="1" height="30" alt="" hspace="0" vspace="0" border="0">
+                            </td>
+                        </tr>
+                        </tbody></table>
+        
+                   
+                    <form name="form1" action="/postRegister" onsubmit="return validateForm()" method="POST"
